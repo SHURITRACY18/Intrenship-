@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body.intro{
+    width: 300rm;
+    height: 200rm;
+    padding: 150px 30%;
+    color:brown;
+    text-align: right;
+    background-image: url(../asset/images/yepo.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background:contain;
+   box-sizing: border-box;
+
+header.intro{
+    color:wheat;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+sub.intro{
+   color: wheat;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button.intro{
+    font-size: 25px;
+    color: rgb(35, 22, 59);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    background: rgb(38, 20, 83);
+    color: white;
+    padding: 7px 20px;
+}
+img.intro{
+    height: auto;
+    width: 25em;
+    border: 55px;
+    border-radius: 50%;
+    
+    justify-items: left;
+    }
+
+}
